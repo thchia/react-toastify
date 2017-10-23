@@ -35,7 +35,8 @@
   "homepage": "https://github.com/fkhadra/react-toastify#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-transition-group": "^2.2.1"
+    "react-transition-group": "^2.2.1",
+    "@types/react-transition-group": "^2.0.6"
   },
   "jest": {
     "verbose": true,
@@ -45,7 +46,6 @@
     ]
   },
   "devDependencies": {
-    "@types/react-transition-group": "^2.0.6",
     "autoprefixer": "^7.1.4",
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.1",
