@@ -1,3 +1,6 @@
+import React from 'react'
+import { Transition } from 'react-transition-group'
+
 export let toast: Toast;
 
 interface Toast {
